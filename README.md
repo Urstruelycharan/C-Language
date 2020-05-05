@@ -2,7 +2,7 @@
 ## CRICKET SCORECARD
 
 
-#(projectcricket2.c)
+#### projectcricket2.c
 
 Cricket scorecard using C language.
 This code basically records the score during a cricket match.This code basically uses C language so no GUI is used.
@@ -11,7 +11,7 @@ Then the output displays a Scorecard as output.
 
 ## ATM
 
-#(atm.c,balance.txt.pin.txt.account.txt)
+#### atm.c,balance.txt.pin.txt.account.txt
 
 This atm program is completley written in C.
 Every account in account.txt is assigned with some pin in pin.txt.There is no possibility in our program to create new accounts.We are going to use existing accounts only.
