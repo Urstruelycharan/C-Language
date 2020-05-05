@@ -1,5 +1,5 @@
 # C-Projects
-CRICKET SCORECARD
+## CRICKET SCORECARD
 
 
 #(projectcricket2.c)
@@ -9,7 +9,7 @@ This code basically records the score during a cricket match.This code basically
 You should enter no.of overs and enter runs and fall of wickets for both innings.
 Then the output displays a Scorecard as output.
 
-ATM
+## ATM
 
 #(atm.c,balance.txt.pin.txt.account.txt)
 
